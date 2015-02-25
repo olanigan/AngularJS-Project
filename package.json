@@ -1,6 +1,6 @@
 {
   "name": "http-server",
-  "version": "0.7.4",
+  "version": "0.7.4-1",
   "description": "a simple zero-configuration command-line http server",
   "main": "./lib/http-server",
   "repository": {
@@ -98,5 +98,9 @@
     "tarball": "http://registry.npmjs.org/http-server/-/http-server-0.7.4.tgz"
   },
   "directories": {},
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "subdomain": "olanigan-ang",
+  "engines": {
+    "node": "0.10.x"
+  }
 }
